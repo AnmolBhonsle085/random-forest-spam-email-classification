@@ -1,4 +1,4 @@
-Text Classification Using Random Forest
+**Text Classification Using Random Forest**
 
 Project Overview
 
